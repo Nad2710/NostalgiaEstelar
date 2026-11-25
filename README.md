@@ -20,7 +20,7 @@ Incluye la presentación interactiva y el notebook con la implementación de KNN
 
 | Material | Descripción | Enlace |
 |---|---|---|
-| Presentación | Diapositivas interactivas de la exposición, en HTML | [`Presentacion/`](Presentacion/) |
+| Presentación | Diapositivas interactivas de la exposición | [**Ver presentación →**](https://nad2710.github.io/NostalgiaEstelar/) |
 | Notebook | Implementación de KNN desde cero sobre un cielo sintético de estrellas, galaxias y cuásares | [`RamosGonzalez_KNN_Estrellas.ipynb`](Notebook/RamosGonzalez_KNN_Estrellas.ipynb) |
 
 ## Sobre la exposición
