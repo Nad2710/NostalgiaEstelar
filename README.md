@@ -61,3 +61,5 @@ NOMBRE_DEL_REPO/
 - Epps, B. S. (2016). La insoportable levedad de los huesos. *Cuadernos de Literatura*, 20(39).
 
 Imágenes: NASA/SDO; NASA/JPL-Caltech; NASA, ESA, P. Oesch et al.; Y. Beletsky (LCO)/ESO.
+
+> Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas, Universidad Nacional Autónoma de México
